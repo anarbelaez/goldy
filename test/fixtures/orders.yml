@@ -1,0 +1,13 @@
+johns_order:
+  user: john_doe
+  total: 29.97
+  status: 0
+  order_date: <%= Time.zone.now %>
+  delivery_address: "123 Main St, Anytown USA"
+
+janes_order:
+  user: jane_doe
+  total: 19.98
+  status: 2
+  order_date: <%= 1.day.ago %>
+  delivery_address: "456 Main St, Anytown USA"

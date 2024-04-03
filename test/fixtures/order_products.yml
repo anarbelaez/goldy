@@ -1,0 +1,29 @@
+johns_bucket:
+  order: johns_order
+  product: original_recipe_bucket
+  quantity: 1
+  subtotal: 20.99
+
+johns_pepsi:
+  order: johns_order
+  product: pepsi
+  quantity: 2
+  subtotal: 1.99
+
+johns_chocolate_chip_cookies:
+  order: johns_order
+  product: chocolate_chip_cookies
+  quantity: 2
+  subtotal: 4.99
+
+janes_bucket:
+  order: janes_order
+  product: original_recipe_bucket
+  quantity: 1
+  subtotal: 2.99
+
+janes_coleslaw:
+  order: janes_order
+  product: coleslaw
+  quantity: 2
+  subtotal: 2.99
