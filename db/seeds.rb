@@ -30,8 +30,8 @@ end
 end
 
 Admin.create!(
-  first_name: "Ana Maria",
-  last_name: "Arbelaez Lopez",
+  first_name: "Ana M.",
+  last_name: "A",
   email: "anamaria@email.com",
   password: '12345678'
 )
